@@ -1,0 +1,12 @@
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\bin\Debug\ExcelTempl.exe.config
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\bin\Debug\ExcelTempl.exe
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\bin\Debug\ExcelTempl.pdb
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\bin\Debug\EPPlus.dll
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\bin\Debug\EPPlus.xml
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\obj\Debug\ExcelTempl.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\obj\Debug\ExcelTempl.Form1.resources
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\obj\Debug\ExcelTempl.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\obj\Debug\ExcelTempl.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\obj\Debug\ExcelTempl.exe
+c:\users\nikita\documents\visual studio 2015\Projects\ExcelTempl\ExcelTempl\obj\Debug\ExcelTempl.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\ExcelTempl\ExcelTempl\obj\Debug\ExcelTempl.Form2.resources
